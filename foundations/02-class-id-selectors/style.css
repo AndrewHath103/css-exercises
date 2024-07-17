@@ -4,12 +4,12 @@
 }
 
 #num4 {
-    color: rgb(144, 238, 144);
+    background-color: rgb(144, 238, 144);
     font-weight: bold;
 }
 
 .odd {
-    color: rgb(255, 192, 203);
+    background-color: rgb(255, 192, 203);
     font-family: Verdana "DejaVu Sans" sans-serif;
 }
 
